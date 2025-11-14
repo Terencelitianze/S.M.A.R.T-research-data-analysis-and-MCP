@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\terre\\Documents\\terrence\\NYUAD\\S.M.A.R.T research lab\\ollama-mcp"
+      ]
+    }
+  }
+}
